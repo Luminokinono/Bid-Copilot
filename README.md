@@ -53,8 +53,8 @@ export ANTHROPIC_API_KEY=sk-ant-...
 
 ## Version en ligne (sans serveur)
 
-`index.html` fait tourner l'appli directement dans le navigateur grâce à [stlite](https://github.com/whitphx/stlite) (Streamlit compilé en WebAssembly). Une fois la branche fusionnée dans `main`, elle est accessible via GitHub Pages à l'adresse :
+`index.html` fait tourner l'appli directement dans le navigateur grâce à [stlite](https://github.com/whitphx/stlite) (Streamlit compilé en WebAssembly). Elle est accessible via GitHub Pages :
 
-https://luminokinono.github.io/portfolio/bid-copilot/
+https://luminokinono.github.io/Bid-Copilot/
 
 Sans clé API, l'analyse du DCE tourne en mode hors-ligne (règles). Le premier chargement prend 30 à 60 secondes.
